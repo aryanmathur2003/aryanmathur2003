@@ -117,7 +117,7 @@
 
 <a href="https://github.com/aryanmathur2003/">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanmathur2003&theme=react&show_icons=true&hide_border=true&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmathur2003&theme=react&show_icons=true&hide_border=true&layout=compact" width="400"  alt="aryanmathur2003"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmathur2003&theme=react&show_icons=true&hide_border=true&layout=compact" width="375"  alt="aryanmathur2003"/>
 </a>
 <!-- <a href="https://github.com/aryanmathur2003/">
 
