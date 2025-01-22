@@ -6,11 +6,7 @@
   </a>
 </p>
 
-
-
 <br>
-
-
 <br>
 
 - **Computer Science graduate from Purdue University with a minor in Management**  
@@ -24,7 +20,6 @@
   - Contributed to enhancing internal tools for better functionality and efficiency.  
 - Enjoys golf, Formula 1, and continuous learning  
 - Open to opportunities in **Product Management** and **Technology**  
-
 
 <br><br>
 
@@ -99,9 +94,7 @@
     ![Scrum](https://img.shields.io/badge/Scrum-%230A6EBD.svg?style=for-the-badge&logo=scrum&logoColor=white)
     ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2325A162.svg?style=for-the-badge&logo=ci%2Fcd&logoColor=white)
     ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23F7B500.svg?style=for-the-badge&logo=testing&logoColor=white)
-
 </p>
-
 
 <br>
 <br>
@@ -114,18 +107,12 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/aryanmathur2003/">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanmathur2003&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmathur2003&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="375"  alt="aryanmathur2003"/>
-</a>
-<!-- <a href="https://github.com/aryanmathur2003/">
-
-</a> -->
-
-
-
-</a>
+  <a href="https://github.com/aryanmathur2003/">
+    <img src="https://github-readme-stats.vercel.app/api?username=aryanmathur2003&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="450"/>
+  </a>
+  <a href="https://github.com/aryanmathur2003/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmathur2003&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="375" alt="aryanmathur2003"/>
+  </a>
 </div>
 
 <br>
@@ -175,12 +162,11 @@
 <br>
 
 <div align='center'>
-
-
-## <b>Looking forward to collaborating with you!</b>
-
+  <b>Looking forward to collaborating with you!</b>
 </div>
+
 <br>
 <br>
 
-Last Edited on: Jan 6, 2025
+Last Edited on: Jan 21, 2025
+
